@@ -186,11 +186,11 @@
   }
   
   #name {
-    background: url(./images/person.svg) no-repeat scroll 1.4rem 1.2rem;
+    background: url(./assets/person.svg) no-repeat scroll 1.4rem 1.2rem;
   }
   
   #email {
-    background: url(./images/mail.svg) no-repeat scroll 1.4rem 1.2rem;
+    background: url(./assets/mail.svg) no-repeat scroll 1.4rem 1.2rem;
   }
   
   /* Footer Section */
@@ -271,7 +271,7 @@
       padding: 0;
       height: 62.2rem;
       margin: 0 auto;
-      background: url(./images/stars.svg);
+      background: url(./assets/stars.svg);
       background-repeat: no-repeat;
       background-position: right;
     }
